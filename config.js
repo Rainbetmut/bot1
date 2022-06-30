@@ -12,13 +12,13 @@ global.autoReadAll = true
 // Ganti Sewajarnya
 global.owner = ['6282274499424']
 global.pengguna = 'Rainbetmutxyz🍭'
-global.premium = []
+global.premium = ['6282274499424']
 global.author = 'Rainbetmutxyz'
 global.pemilik = ['6282274499424'] 
 global.ownernomer = '6282274499424'
 global.ownername = 'Rainbetmutxyz🍭'
 global.botname = 'Rainbetmutxyz'
-global.tengah = "									"
+global.tengah = "Rainbetmutxyz"
 global.Prefix = 'Multi Prefix'
 global.meki = '628227499424'
 global.footer = 'Rainbetmutxyz'
@@ -34,13 +34,13 @@ global.gopay = '082251323144'
 global.wame = 'wa.me/6282274499424'
 global.email = 'rainbetmut@gmail.com'
 global.region = 'Indonesia'
-global.link = 'nekopoi.care'
+global.link = 'https://vt.tiktok.com/ZSdERDKYU/'
 global.sc = 'https://github.com/Rainbetmut'
 global.packname = '"{\nAuthor: Rainbetmutxyz🍭"\n"Bot Number: 6282274499424"\n"Bot Name: Rainbetmutxyz"\n"Instagram: @rain4you_"\n}' 
 global.author = 'Rainbetmutxyz' 
 global.sessionName = 'Rainbetmutxyz'
 global.prefa = ['#','!','/','.']
-global.sp = '❑ ' 
+global.sp = 'Rainbetmutxyz' 
 global.mess = {
     success: '```Done, Sayang!```',
     admin: 'Fitur Khusus Admin Group!',
